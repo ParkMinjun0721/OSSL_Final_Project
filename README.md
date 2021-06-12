@@ -22,6 +22,6 @@
 ## Where can I get more help, if I need it?
   If you need some help, please email me 22000257@handong.edu
 ## Presentation Video (Youtube) Link
-  Link: 
+  Link: <https://youtu.be/X0hgYqvosZo>
 ## References
   Link: <https://ssungkang.tistory.com/entry/C-string-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EB%8A%94-split>
