@@ -4,6 +4,8 @@
   The project can record about food by making a list of Handong foods and grading them. Later, you can see information about the food through the name of the food.
 ## Why is this project useful?
   Using Binary search tree techniques, you can check your desired menu rating. You can also categorize the entire list. You can also see the full list of sorted
+## Tools
+  I develop this project by using C++.
 ## How do I get started?
   1. The source code of this program was written in C++, so you have to install g++ in your raspberry pi.
   <pre> <code>
@@ -17,3 +19,5 @@
   If you need some help, please email me 22000257@handong.edu
 ## Presentation Video (Youtube) Link
   Link: 
+## References
+  Link: <https://ssungkang.tistory.com/entry/C-string-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EB%8A%94-split>
