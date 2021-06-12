@@ -13,11 +13,11 @@
   </code> </pre>
   2. Compile the program
   <pre> <code>
-    $ g++ -o Run OSSL_FINAL.cpp
+    $ g++ -o Run FoodListProgram.cpp
   </code> </pre>
   3. Execute
   <pre> <code>
-    % Run
+    % ./Run
   </code> </pre>
 ## Where can I get more help, if I need it?
   If you need some help, please email me 22000257@handong.edu
