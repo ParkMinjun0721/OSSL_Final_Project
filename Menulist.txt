@@ -1,0 +1,2 @@
+Restaurant_name Food_Name Rate
+Mom's_Kitchen Samgyetang 5.0
