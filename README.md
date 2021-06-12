@@ -11,9 +11,13 @@
   <pre> <code>
     $ sudo apt-get install g++
   </code> </pre>
-  2. Execute a.out
+  2. Compile the program
   <pre> <code>
-    $ ./a.out
+    $ g++ -o Run OSSL_FINAL.cpp
+  </code> </pre>
+  3. Execute
+  <pre> <code>
+    % Run
   </code> </pre>
 ## Where can I get more help, if I need it?
   If you need some help, please email me 22000257@handong.edu
