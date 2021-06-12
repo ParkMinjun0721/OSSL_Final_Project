@@ -23,5 +23,7 @@
   If you need some help, please email me 22000257@handong.edu
 ## Presentation Video (Youtube) Link
   Link: <https://youtu.be/X0hgYqvosZo>
+## Clearly indicate what your contribution to your project is.
+  Write almost all code
 ## References
   Link: <https://ssungkang.tistory.com/entry/C-string-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%98%EB%88%84%EB%8A%94-split>
