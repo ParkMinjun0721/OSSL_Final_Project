@@ -6,7 +6,11 @@
   Using Binary search tree techniques, you can check your desired menu rating. You can also categorize the entire list. You can also see the full list of sorted
 ## How do I get started?
   1. The source code of this program was written in C++, so you have to install g++ in your raspberry pi.
+  <pre>
+  <code>
     > $ sudo apt-get install g++
+  </code>
+  </pre>
   2. Execute a.out
     > $ ./a.out
 ## Where can I get more help, if I need it?
