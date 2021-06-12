@@ -9,11 +9,11 @@
 ## How do I get started?
   1. The source code of this program was written in C++, so you have to install g++ in your raspberry pi.
   <pre> <code>
-    > $ sudo apt-get install g++
+    $ sudo apt-get install g++
   </code> </pre>
   2. Execute a.out
   <pre> <code>
-    > $ ./a.out
+    $ ./a.out
   </code> </pre>
 ## Where can I get more help, if I need it?
   If you need some help, please email me 22000257@handong.edu
